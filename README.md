@@ -67,9 +67,9 @@ After the analysis, these were the core questions that needed to be answered.
 
 
 
-![Screenshot (446)](https://github.com/ChinweRose/Gadget-Sales/assets/103608228/faa82a4a-cb31-464e-984c-d78e2bfaf134)
 
 
+![Screenshot (446)](https://github.com/ChinweRose/Gadget-Sales/assets/103608228/f0fc79ee-fcb5-4f78-b932-4047c8898c46)
 
 
 
