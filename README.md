@@ -66,6 +66,14 @@ After the analysis, these were the core questions that needed to be answered.
 
 
 
+
+![Screenshot (446)](https://github.com/ChinweRose/Gadget-Sales/assets/103608228/faa82a4a-cb31-464e-984c-d78e2bfaf134)
+
+
+
+
+
+
 ### Recommendations
 
 - Generate a high level of product awareness for devices with lesser sales.
