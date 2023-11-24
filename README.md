@@ -48,7 +48,16 @@ After the analysis, these were the core questions that needed to be answered.
 
 ### Conclusions made from the analysis.
 
-![image](https://github.com/ChinweRose/Gadget-Sales/assets/103608228/fddedae1-f771-4c71-84b6-4936a27537e7)
+
+
+
+
+
+![Screenshot (445)](https://github.com/ChinweRose/Gadget-Sales/assets/103608228/350a77ef-af54-4bcd-88a7-d4678865b346)
+
+
+
+
 
 1. The graph above illustrates the total number of products ordered which is 209,000 and the total sales made from the products which is $34.49M. It is noteworthy that the least sales happened in the first month(January), with a total sale of $1.82M, approximately 5% of the total amount of sales. There was a steady rise in sales from the first month till the fourth month, then a significant drop in sales was noticed in the fifth month(May). December happened to have recorded the highest sales, making up 13% of the total amount of sales.
 
