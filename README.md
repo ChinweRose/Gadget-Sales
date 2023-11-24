@@ -78,3 +78,4 @@ After the analysis, these were the core questions that needed to be answered.
 
 - Generate a high level of product awareness for devices with lesser sales.
 - Invest in marketing and promoting the products during the peak sales seasons, and focus on expanding the most-bought devices in cities with higher profit margins.
+  
