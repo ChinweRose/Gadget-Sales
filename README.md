@@ -61,7 +61,7 @@ After the analysis, these were the core questions that needed to be answered.
 
 1. The graph above illustrates the total number of products ordered which is 209,000 and the total sales made from the products which is $34.49M. It is noteworthy that the least sales happened in the first month(January), with a total sale of $1.82M, approximately 5% of the total amount of sales. There was a steady rise in sales from the first month till the fourth month, then a significant drop in sales was noticed in the fifth month(May). December happened to have recorded the highest sales, making up 13% of the total amount of sales.
 
-2. Also, from this visualization here, major sales were recorded in San Francisco, with a total number of 44732 devices bought, and $8,262,203 total sales made. From observation, we noticed that the Macbook Pro laptop topped the list of the most-bought products making up 23.4% of the total sales made in San Francisco, 22.5% of total sales made in Los Angeles, 22.3% of total sales made in New York City, and 20.8% of the total sales made in Boston, with the remaining devices making up to less than 10% of the total sales across the cities.
+2. Also, from this visualization below, major sales were recorded in San Francisco, with a total number of 44732 devices bought, and $8,262,203 total sales made. From observation, we noticed that the Macbook Pro laptop topped the list of the most-bought products making up 23.4% of the total sales made in San Francisco, 22.5% of total sales made in Los Angeles, 22.3% of total sales made in New York City, and 20.8% of the total sales made in Boston, with the remaining devices making up to less than 10% of the total sales across the cities.
 
 
 
